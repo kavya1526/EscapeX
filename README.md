@@ -1,0 +1,2 @@
+# EscapeX
+A JavaScript Game
